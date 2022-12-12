@@ -1,0 +1,52 @@
+/*Variables de colores*/
+/*Variables fuentes*/
+a {
+  text-decoration: none; /*AJUSTES DE TEXTOS*/
+  color: black;
+}
+
+ul {
+  list-style: none; /*LISTAS SIN ESTILO*/
+}
+
+a:hover {
+  color: bisque; /*HOVER*/
+}
+
+img {
+  max-width: 100%; /*AJUSTE DE IMAGENES*/
+}
+
+* {
+  margin: 0; /*RESET*/
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%; /*EQUIVALENCIA DE REM*/
+}
+
+body {
+  background-color: #f0f8ff;
+}
+
+/*HEADER BOOTSTRAP*/
+.navbar-brand {
+  font-size: 5rem;
+}
+
+.nav-link {
+  font-size: 2rem;
+}
+
+.dropdown-item {
+  font-size: 1.5rem;
+}
+
+.form-control {
+  height: 35px;
+}
+
+/*FIN HEADER BOOTSTRAP*/
+
+/*# sourceMappingURL=styles.css.map */

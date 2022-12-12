@@ -1,0 +1,31 @@
+a{
+    text-decoration: none;   /*AJUSTES DE TEXTOS*/
+    color: black;
+    
+}
+
+ul{
+    list-style: none;   /*LISTAS SIN ESTILO*/
+}
+
+a:hover{
+    color: bisque;   /*HOVER*/
+}
+
+img{
+    max-width: 100%;  /*AJUSTE DE IMAGENES*/
+}
+
+*{
+    margin: 0;  /*RESET*/
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;  /*EQUIVALENCIA DE REM*/
+    
+}
+body{
+    background-color: $bg-body;
+    
+}
